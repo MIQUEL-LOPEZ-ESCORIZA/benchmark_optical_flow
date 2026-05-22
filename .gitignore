@@ -1,0 +1,34 @@
+# SLURM job output
+slurm-*.out
+slurm-*.err
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Results and generated data (lives on scratch, not in the repo)
+results/
+videos.txt
+
+# Logs
+*.log
+
+# Env files
+.env
+*.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

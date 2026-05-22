@@ -1,0 +1,10 @@
+# enabled	name	backend	repo_model	ckpt
+# backend is one of: ptlflow, megaflow
+# For PTLFlow, repo_model and ckpt are passed to --model/--ckpt_path.
+# PTLFlow repo: /users/mlopezescoriza/projects/ptlflow
+1	FlowSeek	ptlflow	flowseek_m	tar-c-t-tskh
+1	MEMFOF	ptlflow	memfof	tskh
+1	ReCoVEr	ptlflow	recover_cx	sintel
+1	WAFT	ptlflow	waft_dav2_a2	zero_shot
+1	DPFlow	ptlflow	dpflow	things
+1	MegaFlow	megaflow	megaflow-flow	

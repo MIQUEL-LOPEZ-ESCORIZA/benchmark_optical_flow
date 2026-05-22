@@ -1,0 +1,7 @@
+[submodule "ptlflow"]
+	path = ptlflow
+	url = https://github.com/hmorimitsu/ptlflow
+
+[submodule "other_models/megaflow"]
+	path = other_models/megaflow
+	url = https://github.com/cvg/megaflow
